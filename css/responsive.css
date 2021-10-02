@@ -1,0 +1,401 @@
+@media screen and (max-width:2800px){
+    /* .iconx{
+          max-width: 60px;
+        max-height: 60px;  
+    } */
+}
+@media screen and (min-width:2570px) and (max-width:4000px){
+    .s-media-item{
+        min-height: 100vh;
+        max-height: 50vh;
+     } 
+}
+@media screen and (max-width:2560px){
+    .iconx{
+          width: 30px;
+        height: 30px;  
+    }
+    .s-media-item{
+       min-height: 80vh;
+       max-height: 50vh;
+    } 
+}
+@media screen and (max-width:806px){
+    .dropbtn  {
+       width: 200px;
+       height: 40px;
+}
+}
+@media screen and (max-width:500px){
+    .dropbtn  {
+       margin-left:-80px;
+}
+.dropdown-content  ul li a {
+    margin-left:-110px;
+  }
+}
+@media screen and (max-width:1440px) {
+     .iconx{
+        width: 20px;
+      height: 20px;  
+    } 
+}
+@media screen and (max-width:478px){
+   .line{
+      width: 80%;
+  }
+  #line-2{
+      width: 80%;
+  }
+}
+@media screen and (max-width:1024px){
+     .iconx{
+          width: 20px;
+        height: 20px;  
+    } 
+}
+@media screen and (max-width:580px) {
+    .nav-text-1{
+        padding-left: 15%;
+    }
+    .nav-text-2{
+        padding-left: 15%;
+       width: 100%;
+    }   
+}
+@media screen and (max-width:1250px){
+.wrapper-s-media-2{
+    width: 30% !important;
+    margin: auto;
+}
+}
+@media screen and (max-width:768px){
+    .iconx{
+        width: 20px;
+        height: 20px;  
+    }
+    /* .menu-btn{
+        top: 5%;
+    } */
+    .wrapper-item-top-item{
+        margin-top:1%;
+        }
+    .nav-text-1{
+        font-size: 50px; 
+    }
+    .nav-text-2{
+        font-size: 8px; 
+    }
+    .rectangle{
+        right: 3%;
+        top: 30%;
+    }
+    #img-4-res{
+        display: flex;
+    }
+} 
+@media screen and (max-width:580px) {
+    .nav-text-1{
+      margin-left: -15%;
+    }
+    .nav-text-2{
+    margin-left: -15%;
+    }
+}
+@media screen and (max-width:575px) {
+    #nav{
+       padding-top: 35px;
+       padding-left: 10px;
+      }
+      .wrapper-item-top-item{
+        margin-top:2%;
+        margin-left: 0;
+        }
+.rectangle{
+    top: 35%;
+}    
+#item-1-text{
+    font-size: 18px;
+}
+.c--anim-btn{
+    margin-top: 15%;
+    margin-bottom: 15%;
+    height: 35px;
+    width: 35%;
+    margin-left: 35%;
+}
+.c--anim-btn span{
+    font-size: 25px;
+}
+.c--anim-btn-2{
+    margin-top: 50%;
+    margin-left: 18%;
+    height: 10%;
+    width: 50%;
+}
+.c--anim-btn-2 span{
+    font-size: 20px;
+}
+.c--anim-btn-3{
+    margin-top: 20%;
+    margin-left:42%;
+    height: 20%;
+    width: 20%;
+}
+.c--anim-btn-3 span{
+    font-size: 25px;
+}
+.c--anim-btn-4{
+    margin-top: 10%;
+    margin-left: 40%;
+    height: 22%;
+    width: 28%;
+    margin-bottom: 10%;
+}
+.c--anim-btn-4 span{
+    font-size: 25px;
+}
+.c--anim-btn-5{
+    margin-top: 50%;
+    margin-left: 30%;
+    height: 10%;
+    width: 50%;
+}
+.c--anim-btn-5 span{
+    font-size: 25px;
+}
+.c--anim-btn-6{
+    margin-top: 90%;
+    margin-left: 30%;
+    height: 8%;
+    width: 50%;
+}
+.c--anim-btn-6 span{
+    font-size: 25px;
+}
+
+.c--anim-btn-7{
+    margin-top: 20%;
+    margin-left: 40%;
+    height: 20%;
+    width: 20%;
+}
+.c--anim-btn-7 span{
+    font-size: 25px;
+}
+.c--anim-btn-8{
+    margin-top: 90%;
+    margin-left: 35%;
+    height: 8%;
+    width: 50%;
+}
+.c--anim-btn-8 span{
+    font-size: 25px;
+}
+.committed-1{   
+ padding-top: 0;
+ margin-top: 8%;
+ margin-left: 5%;
+ padding-bottom: 20%;
+ font-size: 18px;
+}
+.committed-2{
+    font-size: 18px;
+    padding-top: 15%;    
+}
+#img-4-r{
+    margin-top: 20%;
+}
+#img-7-r{
+    margin-top: 20%;
+}
+#img-4-res{
+    margin-top: 10%;
+}
+.IMMOBILIEN{
+    padding-top: 20%;
+    padding-bottom: 20%;
+    font-size: 22px;
+ }
+ #img-10-r{
+     margin-top: 20%;
+ }
+ .baurecht{
+    font-size: 22px;
+ }
+ #img-6-r,
+ #img-11-r{
+     margin-top: 20%;
+ }
+ #projekte-2{
+    font-size: 22px;
+    padding-top: 85%;
+ }
+ #img-12-r{
+     margin-top: 20%;
+ }
+ .sustainable{
+    font-size: 22px;
+    padding-top: 20%;
+ }
+ .design{
+    font-size: 22px;
+    padding-top: 20%;
+ }
+ #img-12-r{
+     padding-top: 20%;
+ }
+ .kontakt{
+    font-size: 22px;
+    padding-top:90%;
+ }
+ #img-13-r{
+     padding-top: 20%;
+ }
+ .footer-text{
+    margin-top: 10%;
+    font-size: 10.5px;
+  }
+  .footer-end-item-1,
+  .footer-end-item-2{
+      font-size: 10px;
+  }
+}
+/*mobile-L*/
+@media screen and (max-width:425px){
+   .iconx{
+       width: 18px;
+       height: 18px;
+   }
+   #nav{
+    padding: 25px 0px 56px 10px;
+   }
+   .footer-end-item-1{
+       font-size: 8px;
+   }
+   .footer-end-item-2{
+    font-size: 8px;
+}
+.rectangle{
+    right: 3%;
+    top: 25%;
+}
+.c--anim-btn-2{
+    height: 12%;
+    width: 70%;
+}
+.c--anim-btn-3{
+    height: 24%;
+    width: 28%;
+    margin-top: 15%;
+    margin-left: 40%;
+}
+.c--anim-btn-4{
+    width: 30%;
+    height: 15%;
+    margin-top: 15%;
+margin-bottom: 20%;
+}
+.c--anim-btn-5{
+    height: 12%;
+}
+.c--anim-btn-6{
+height: 9%;
+}
+.c--anim-btn-7{
+    height: 22%;
+    width: 30%;
+    margin-left: 35%;
+    }
+.c--anim-btn-8{
+        margin-left: 25%;
+        }
+.c--anim-btn-2 span{
+    font-size: 20px;
+}
+.c--anim-btn-3 span{
+    font-size: 20px; 
+}
+.c--anim-btn-4 span,
+.c--anim-btn-5 span,
+.c--anim-btn-6 span,
+.c--anim-btn-7 span,
+.c--anim-btn-8 span{
+    font-size: 20px;
+}
+}
+/*MOBİLE-M */
+@media screen and (max-width:375px){
+    .footer-icon-item{
+        padding-left: 20%;
+      }
+      .iconx{
+          width: 15px;
+          height: 15px;
+      }
+      .footer-end-item-1{
+        font-size: 8px;
+    }
+    .footer-end-item-2{
+     font-size: 8px;
+ }
+    .rectangle{
+        right: 3%;
+        top: 25%;
+    }
+    .footer-text{
+        font-size: 8px;
+    }
+    .c--anim-btn span,
+    .c--anim-btn-2 span, 
+.c--anim-btn-3 span,
+.c--anim-btn-4 span,
+.c--anim-btn-5 span,
+.c--anim-btn-6 span,
+.c--anim-btn-7 span,
+.c--anim-btn-8 span{
+    font-size: 18px;
+}
+.c--anim-btn{
+    height: 5%;
+}
+.c--anim-btn-7{
+    width: 30%;
+}
+}
+/*MOBİLE-S*/
+ @media screen and (max-width:320px){
+    .line{
+        width:80%;
+      }
+      #nav{
+        padding: 35px 0px 56px 10px;
+       }
+    .rectangle{
+        right: 3%;
+        top: 35%;
+    }
+    .c--anim-btn{
+    margin-top: 15%;
+    margin-bottom: 15%;
+    height: 25px;
+    width: 35%;
+    margin-left: 35%;
+}
+.c--anim-btn span,
+.c--anim-btn-2 span, 
+.c--anim-btn-3 span,
+.c--anim-btn-4 span,
+.c--anim-btn-5 span,
+.c--anim-btn-6 span,
+.c--anim-btn-7 span,
+.c--anim-btn-8 span{
+    font-size: 16px;
+}
+.c--anim-btn-2{
+    height: 12%;
+}
+.c--anim-btn-5{
+    height: 12%;
+}
+}
